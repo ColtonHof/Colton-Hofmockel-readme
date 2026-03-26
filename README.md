@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm Colton Hofmockel!
 ##  About Me
-I am a Sophomore studying Cyber Security at UTSA. I am currently a Information Security Intern at CBE Companies and looking to grow my skills in CyberSecurity.
+I am a Sophomore studying Cybersecurity at UTSA. I am currently a Information Security Intern at CBE Companies and looking to grow my skills in CyberSecurity.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
